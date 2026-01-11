@@ -1,0 +1,111 @@
+station_id,name,lat,lon,capacity
+6489,Tesco - Church Road,50.828557,-0.176419,10
+6491,Hove Town Hall,50.82799,-0.1708,13
+6492,George Street,50.828463,-0.173997,11
+6493,Connaught Road,50.828769,-0.177336,12
+6501,Madeira Drive,50.816926,-0.121852,13
+6502,Upper Gloucester Road / Surrey Street,50.827442,-0.142185,8
+6503,i360,50.82123,-0.14946,14
+6504,Rottingdean White Horse,50.803208,-0.057338,8
+6505,Kings Road Odeon,50.820751,-0.145008,13
+6506,King Alfred,50.824735,-0.180452,15
+6507,Seafront Peace Statue,50.82263,-0.15691,13
+6508,Brighton Palace Pier,50.81932,-0.13516,19
+6509,Hove Lawns,50.823817,-0.165826,27
+6510,Sackville Road / Byron Street,50.834176,-0.177176,5
+6511,Hove Station - North,50.835753,-0.170323,9
+6512,Hove Lagoon,50.826878,-0.195092,13
+6513,Brighton Marina,50.812416,-0.104545,28
+6514,Brighton Station - North,50.830132,-0.140097,13
+6515,Seafront Grand Hotel,50.82087,-0.14684,13
+6516,Brighton Station - South,50.828637,-0.141485,10
+6517,North Street Barclays,50.82331,-0.14185,12
+6766,Hove Station - South,50.834815,-0.170528,19
+6965,Hove Park,50.83909,-0.172873,14
+6966,Brunswick Place,50.825812,-0.158593,12
+6967,Seven Dials / Vernon Terrace,50.830093,-0.148396,11
+6968,Sussex County Cricket Ground,50.82965,-0.16429,9
+6969,Palmeira Square,50.826857,-0.164249,13
+6970,St Ann's Well Gardens,50.830318,-0.158263,10
+6971,Preston Street,50.824071,-0.15068,16
+7046,The Level (South),50.829553,-0.134408,8
+7047,Hartington Road,50.835309,-0.12494,10
+7048,Brighton Town Hall,50.820963,-0.140362,8
+7049,Church Street,50.823862,-0.138147,13
+7050,London Road / Baker Street,50.83156,-0.136661,13
+7051,London Road Station,50.83669,-0.13645,12
+7052,Lewes Road & Elm Grove,50.831815,-0.129919,19
+7053,Rock Street,50.817157,-0.111654,10
+7054,Old Steine,50.821149,-0.137851,14
+7055,St George's Road / Eaton Place,50.817449,-0.116551,8
+7056,Lewes Road & Edinburgh Road,50.834982,-0.126495,20
+7057,Eastern Road,50.820885,-0.124672,21
+7058,John Street,50.822788,-0.133967,20
+7059,Abbey Road,50.819233,-0.119445,11
+7060,Grand Parade,50.824232,-0.13561,11
+7061,Montague Place,50.819571,-0.124282,9
+7062,Whitecross Street,50.828715,-0.137783,15
+7063,New England Quarter,50.830558,-0.1379,13
+7064,The Level (North),50.83181,-0.133536,10
+7065,St James's Street,50.820364,-0.130977,9
+7066,Pavilion Buildings,50.82203,-0.138529,11
+7134,University of Sussex - Bramber House,50.86757,-0.087878,12
+7135,Stanmer Park - One Garden,50.869389,-0.103931,4
+7137,University of Brighton - Sports Centre,50.85987,-0.087927,6
+7138,University of Brighton - Cockcroft Building,50.844963,-0.1178,9
+7139,University of Brighton - Advanced Engineering Centre,50.844728,-0.118637,18
+7140,Moulsecoomb Way,50.851164,-0.109874,13
+7141,University of Brighton - Falmer,50.859921,-0.085852,5
+7142,Stanmer Park - Lower Lodges,50.861858,-0.093909,5
+7143,University of Sussex - Sports Centre,50.863246,-0.089889,16
+7154,University of Brighton - Varley Park Halls of Residence,50.864054,-0.108857,9
+7192,Aldrington Station,50.83681,-0.18415,10
+7193,Portland Road / Glebe Villas,50.835161,-0.201757,14
+7194,Portslade Town Hall,50.836541,-0.211006,10
+7195,Portslade Station - North,50.835835,-0.20557,5
+7196,Wish Road,50.830471,-0.193963,10
+7197,The Droveway - Waitrose,50.84362,-0.17587,10
+7198,Portslade Station - South,50.835472,-0.205758,9
+7199,South Street Portslade,50.843188,-0.220226,9
+7200,Applesham Avenue,50.844971,-0.193688,9
+7201,New Church Road / Pembroke Gardens,50.829532,-0.181694,10
+7202,Portland Road / Shelley Road,50.833352,-0.18475,11
+7203,Ewart Street,50.830015,-0.126535,11
+7207,Portland Road / Wish Park Surgery,50.833893,-0.189337,9
+7221,New Church Road / Boundary Road,50.833129,-0.20703,8
+7222,Preston Park / Preston Road,50.836386,-0.142943,13
+7223,Preston Road / Harrington Road,50.845813,-0.151399,10
+7224,Brighton General Hospital,50.83165,-0.115066,5
+7225,Ladies' Mile Road,50.863764,-0.144564,12
+7226,Withdean Rise,50.85269,-0.1549,10
+7227,Preston Park North,50.840987,-0.150561,11
+7237,Mill View Hospital,50.843322,-0.189579,6
+7239,University of Brighton - Cockcroft Building Entrance,50.844717,-0.118056,5
+7263,Preston Barracks / Plus X Innovation,50.842559,-0.120808,5
+7264,Preston Barracks / Table Tennis,50.842948,-0.120551,5
+7265,Preston Barracks / Lewes Road,50.843168,-0.11987,8
+7307,Fiveways,50.843751,-0.134607,8
+7308,Warren Road,50.835738,-0.079851,7
+7309,The Avenue,50.84162,-0.107519,8
+7310,Whitehawk Way,50.824082,-0.105497,7
+7322,The Upper Drive,50.838602,-0.155796,12
+7323,Western Road / Marlborough Street,50.824118,-0.14774,8
+7324,Whitehawk Road / Henley Road,50.818258,-0.106085,6
+7411,Queens Park Terrace,50.827434,-0.124075,8
+7412,Auckland Drive,50.841311,-0.101181,9
+7413,Upper Hollingdean Road,50.83939,-0.133437,8
+7414,Saltdean Lido,50.801993,-0.041742,11
+7415,Clarendon Place,50.829818,-0.20937,8
+7416,Preston Park Station - West,50.844703,-0.155222,5
+7418,Chalky Road / Graham Avenue,50.851199,-0.226739,7
+7419,Richmond Place,50.82682,-0.135142,7
+7420,Northease Drive - Oscar's On The Green,50.847685,-0.201148,8
+7421,Preston Circus,50.833547,-0.139703,9
+7422,Denman Place,50.866325,-0.11145,9
+7924,Coldean Lane,50.858232,-0.10325,10
+7925,Withdean Sports Complex,50.852933,-0.159917,7
+8048,Bristol Gardens,50.817369,-0.106732,5
+8049,MODA Hove Central,50.836646,-0.176466,5
+8121,Black Rock,50.814122,-0.109421,9
+8122,BHASVIC - Dyke Road,50.835288,-0.151745,10
+8164,Rockwater,50.82603,-0.18726,9
